@@ -1,0 +1,2699 @@
+
+
+Name: AHVM326
+Link: https://bsw.iitd.ac.in/coursepage.php?course=AHVM326
+
+Name: AML-835
+Link: https://bsw.iitd.ac.in/coursepage.php?course=AML-835
+
+Name: AML700
+Link: https://bsw.iitd.ac.in/coursepage.php?course=AML700
+
+Name: AML701
+Link: https://bsw.iitd.ac.in/coursepage.php?course=AML701
+
+Name: AML702
+Link: https://bsw.iitd.ac.in/coursepage.php?course=AML702
+
+Name: AML713
+Link: https://bsw.iitd.ac.in/coursepage.php?course=AML713
+
+Name: AML805
+Link: https://bsw.iitd.ac.in/coursepage.php?course=AML805
+
+Name: AML835
+Link: https://bsw.iitd.ac.in/coursepage.php?course=AML835
+
+Name: AMP100
+Link: https://bsw.iitd.ac.in/coursepage.php?course=AMP100
+
+Name: AMP776
+Link: https://bsw.iitd.ac.in/coursepage.php?course=AMP776
+
+Name: APL
+Link: https://bsw.iitd.ac.in/coursepage.php?course=APL
+
+Name: APL100
+Link: https://bsw.iitd.ac.in/coursepage.php?course=APL100
+
+Name: APL102
+Link: https://bsw.iitd.ac.in/coursepage.php?course=APL102
+
+Name: APL103
+Link: https://bsw.iitd.ac.in/coursepage.php?course=APL103
+
+Name: APL104
+Link: https://bsw.iitd.ac.in/coursepage.php?course=APL104
+
+Name: APL105
+Link: https://bsw.iitd.ac.in/coursepage.php?course=APL105
+
+Name: APL106
+Link: https://bsw.iitd.ac.in/coursepage.php?course=APL106
+
+Name: APL107
+Link: https://bsw.iitd.ac.in/coursepage.php?course=APL107
+
+Name: APL108
+Link: https://bsw.iitd.ac.in/coursepage.php?course=APL108
+
+Name: APL110
+Link: https://bsw.iitd.ac.in/coursepage.php?course=APL110
+
+Name: APL160
+Link: https://bsw.iitd.ac.in/coursepage.php?course=APL160
+
+Name: APL300
+Link: https://bsw.iitd.ac.in/coursepage.php?course=APL300
+
+Name: APL311
+Link: https://bsw.iitd.ac.in/coursepage.php?course=APL311
+
+Name: APL321
+Link: https://bsw.iitd.ac.in/coursepage.php?course=APL321
+
+Name: APL434
+Link: https://bsw.iitd.ac.in/coursepage.php?course=APL434
+
+Name: APL701
+Link: https://bsw.iitd.ac.in/coursepage.php?course=APL701
+
+Name: APL703
+Link: https://bsw.iitd.ac.in/coursepage.php?course=APL703
+
+Name: APL705
+Link: https://bsw.iitd.ac.in/coursepage.php?course=APL705
+
+Name: APL711
+Link: https://bsw.iitd.ac.in/coursepage.php?course=APL711
+
+Name: APL720
+Link: https://bsw.iitd.ac.in/coursepage.php?course=APL720
+
+Name: APL753
+Link: https://bsw.iitd.ac.in/coursepage.php?course=APL753
+
+Name: APL765
+Link: https://bsw.iitd.ac.in/coursepage.php?course=APL765
+
+Name: APL771
+Link: https://bsw.iitd.ac.in/coursepage.php?course=APL771
+
+Name: APL774
+Link: https://bsw.iitd.ac.in/coursepage.php?course=APL774
+
+Name: APL871
+Link: https://bsw.iitd.ac.in/coursepage.php?course=APL871
+
+Name: ASL310
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ASL310
+
+Name: ASL330
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ASL330
+
+Name: ASL340
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ASL340
+
+Name: ASL350
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ASL350
+
+Name: ASL360
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ASL360
+
+Name: ASL370
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ASL370
+
+Name: ASL380
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ASL380
+
+Name: ASL410
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ASL410
+
+Name: ASL462
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ASL462
+
+Name: ASL703
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ASL703
+
+Name: ASL707
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ASL707
+
+Name: ASL733
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ASL733
+
+Name: ASL735
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ASL735
+
+Name: ASL736
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ASL736
+
+Name: ASL737
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ASL737
+
+Name: ASL754
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ASL754
+
+Name: ASL757
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ASL757
+
+Name: ASL761
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ASL761
+
+Name: ASL762
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ASL762
+
+Name: ASL830
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ASL830
+
+Name: ASL840
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ASL840
+
+Name: ASL850
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ASL850
+
+Name: ASL880
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ASL880
+
+Name: ASP820
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ASP820
+
+Name: Asl320
+Link: https://bsw.iitd.ac.in/coursepage.php?course=Asl320
+
+Name: BBL
+Link: https://bsw.iitd.ac.in/coursepage.php?course=BBL
+
+Name: BBL-431
+Link: https://bsw.iitd.ac.in/coursepage.php?course=BBL-431
+
+Name: BBL102
+Link: https://bsw.iitd.ac.in/coursepage.php?course=BBL102
+
+Name: BBL131
+Link: https://bsw.iitd.ac.in/coursepage.php?course=BBL131
+
+Name: BBL132
+Link: https://bsw.iitd.ac.in/coursepage.php?course=BBL132
+
+Name: BBL133
+Link: https://bsw.iitd.ac.in/coursepage.php?course=BBL133
+
+Name: BBL231
+Link: https://bsw.iitd.ac.in/coursepage.php?course=BBL231
+
+Name: BBL331
+Link: https://bsw.iitd.ac.in/coursepage.php?course=BBL331
+
+Name: BBL341
+Link: https://bsw.iitd.ac.in/coursepage.php?course=BBL341
+
+Name: BBL431
+Link: https://bsw.iitd.ac.in/coursepage.php?course=BBL431
+
+Name: BBL432
+Link: https://bsw.iitd.ac.in/coursepage.php?course=BBL432
+
+Name: BBL433
+Link: https://bsw.iitd.ac.in/coursepage.php?course=BBL433
+
+Name: BBL434
+Link: https://bsw.iitd.ac.in/coursepage.php?course=BBL434
+
+Name: BBL445
+Link: https://bsw.iitd.ac.in/coursepage.php?course=BBL445
+
+Name: BBL731
+Link: https://bsw.iitd.ac.in/coursepage.php?course=BBL731
+
+Name: BBL732
+Link: https://bsw.iitd.ac.in/coursepage.php?course=BBL732
+
+Name: BBL733
+Link: https://bsw.iitd.ac.in/coursepage.php?course=BBL733
+
+Name: BBL734
+Link: https://bsw.iitd.ac.in/coursepage.php?course=BBL734
+
+Name: BBL735
+Link: https://bsw.iitd.ac.in/coursepage.php?course=BBL735
+
+Name: BBL736
+Link: https://bsw.iitd.ac.in/coursepage.php?course=BBL736
+
+Name: BBL737
+Link: https://bsw.iitd.ac.in/coursepage.php?course=BBL737
+
+Name: BBL738
+Link: https://bsw.iitd.ac.in/coursepage.php?course=BBL738
+
+Name: BBL740
+Link: https://bsw.iitd.ac.in/coursepage.php?course=BBL740
+
+Name: BBL742
+Link: https://bsw.iitd.ac.in/coursepage.php?course=BBL742
+
+Name: BBL743
+Link: https://bsw.iitd.ac.in/coursepage.php?course=BBL743
+
+Name: BBL745
+Link: https://bsw.iitd.ac.in/coursepage.php?course=BBL745
+
+Name: BBL754
+Link: https://bsw.iitd.ac.in/coursepage.php?course=BBL754
+
+Name: BBL810
+Link: https://bsw.iitd.ac.in/coursepage.php?course=BBL810
+
+Name: BEL403
+Link: https://bsw.iitd.ac.in/coursepage.php?course=BEL403
+
+Name: BEL412
+Link: https://bsw.iitd.ac.in/coursepage.php?course=BEL412
+
+Name: BEL413
+Link: https://bsw.iitd.ac.in/coursepage.php?course=BEL413
+
+Name: BEL419
+Link: https://bsw.iitd.ac.in/coursepage.php?course=BEL419
+
+Name: BEL433
+Link: https://bsw.iitd.ac.in/coursepage.php?course=BEL433
+
+Name: BEL701
+Link: https://bsw.iitd.ac.in/coursepage.php?course=BEL701
+
+Name: BEL702
+Link: https://bsw.iitd.ac.in/coursepage.php?course=BEL702
+
+Name: BEL703
+Link: https://bsw.iitd.ac.in/coursepage.php?course=BEL703
+
+Name: BEL712
+Link: https://bsw.iitd.ac.in/coursepage.php?course=BEL712
+
+Name: BEL714
+Link: https://bsw.iitd.ac.in/coursepage.php?course=BEL714
+
+Name: BEL715
+Link: https://bsw.iitd.ac.in/coursepage.php?course=BEL715
+
+Name: BEL718
+Link: https://bsw.iitd.ac.in/coursepage.php?course=BEL718
+
+Name: BEL721
+Link: https://bsw.iitd.ac.in/coursepage.php?course=BEL721
+
+Name: BHL331
+Link: https://bsw.iitd.ac.in/coursepage.php?course=BHL331
+
+Name: BML
+Link: https://bsw.iitd.ac.in/coursepage.php?course=BML
+
+Name: BML700
+Link: https://bsw.iitd.ac.in/coursepage.php?course=BML700
+
+Name: BML735
+Link: https://bsw.iitd.ac.in/coursepage.php?course=BML735
+
+Name: BML738
+Link: https://bsw.iitd.ac.in/coursepage.php?course=BML738
+
+Name: BML740
+Link: https://bsw.iitd.ac.in/coursepage.php?course=BML740
+
+Name: BML760
+Link: https://bsw.iitd.ac.in/coursepage.php?course=BML760
+
+Name: BML800
+Link: https://bsw.iitd.ac.in/coursepage.php?course=BML800
+
+Name: BML815B
+Link: https://bsw.iitd.ac.in/coursepage.php?course=BML815B
+
+Name: BML820
+Link: https://bsw.iitd.ac.in/coursepage.php?course=BML820
+
+Name: BML830
+Link: https://bsw.iitd.ac.in/coursepage.php?course=BML830
+
+Name: CEL321
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CEL321
+
+Name: CEL331
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CEL331
+
+Name: CEL332
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CEL332
+
+Name: CEL338
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CEL338
+
+Name: CEL342
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CEL342
+
+Name: CEL362
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CEL362
+
+Name: CEL381
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CEL381
+
+Name: CEL411
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CEL411
+
+Name: CEL423
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CEL423
+
+Name: CEL432
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CEL432
+
+Name: CEL451
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CEL451
+
+Name: CEL453
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CEL453
+
+Name: CEL453(1)
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CEL453(1)
+
+Name: CEL455
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CEL455
+
+Name: CEL459
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CEL459
+
+Name: CEL464
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CEL464
+
+Name: CEL610
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CEL610
+
+Name: CEL734
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CEL734
+
+Name: CEL745
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CEL745
+
+Name: CEL767
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CEL767
+
+Name: CEL768
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CEL768
+
+Name: CEL771
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CEL771
+
+Name: CEL772
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CEL772
+
+Name: CEL773
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CEL773
+
+Name: CEL774
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CEL774
+
+Name: CEL778
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CEL778
+
+Name: CEL779
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CEL779
+
+Name: CEL797
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CEL797
+
+Name: CEVL212
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CEVL212
+
+Name: CHL121
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CHL121
+
+Name: CHL122
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CHL122
+
+Name: CHL133
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CHL133
+
+Name: CHL141
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CHL141
+
+Name: CHL202
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CHL202
+
+Name: CHL221
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CHL221
+
+Name: CHL231
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CHL231
+
+Name: CHL261
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CHL261
+
+Name: CHL275
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CHL275
+
+Name: CHL331
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CHL331
+
+Name: CHL332
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CHL332
+
+Name: CHL351
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CHL351
+
+Name: CHL390
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CHL390
+
+Name: CHL471
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CHL471
+
+Name: CHL604
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CHL604
+
+Name: CHL721
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CHL721
+
+Name: CHL727
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CHL727
+
+Name: CHL771
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CHL771
+
+Name: CLL
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CLL
+
+Name: CLL110
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CLL110
+
+Name: CLL111
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CLL111
+
+Name: CLL113
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CLL113
+
+Name: CLL121
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CLL121
+
+Name: CLL122
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CLL122
+
+Name: CLL141
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CLL141
+
+Name: CLL222
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CLL222
+
+Name: CLL231
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CLL231
+
+Name: CLL251
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CLL251
+
+Name: CLL252
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CLL252
+
+Name: CLL261
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CLL261
+
+Name: CLL331
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CLL331
+
+Name: CLL371
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CLL371
+
+Name: CLL702
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CLL702
+
+Name: CLL727
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CLL727
+
+Name: CLL728
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CLL728
+
+Name: CLL731
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CLL731
+
+Name: CLL733
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CLL733
+
+Name: CLL745
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CLL745
+
+Name: CLL763
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CLL763
+
+Name: CLL768
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CLL768
+
+Name: CLL779
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CLL779
+
+Name: CLL780
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CLL780
+
+Name: CLL793
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CLL793
+
+Name: CLV796
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CLV796
+
+Name: CML100
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CML100
+
+Name: CML101
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CML101
+
+Name: CML102
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CML102
+
+Name: CML103
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CML103
+
+Name: CML110
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CML110
+
+Name: CML511
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CML511
+
+Name: CML521
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CML521
+
+Name: CML522
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CML522
+
+Name: CML523
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CML523
+
+Name: CML524
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CML524
+
+Name: CML525
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CML525
+
+Name: CML526
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CML526
+
+Name: CML682
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CML682
+
+Name: CML729
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CML729
+
+Name: CML734
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CML734
+
+Name: CML737
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CML737
+
+Name: CML738
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CML738
+
+Name: CML801
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CML801
+
+Name: CMP100
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CMP100
+
+Name: COL
+Link: https://bsw.iitd.ac.in/coursepage.php?course=COL
+
+Name: COL100
+Link: https://bsw.iitd.ac.in/coursepage.php?course=COL100
+
+Name: COL106
+Link: https://bsw.iitd.ac.in/coursepage.php?course=COL106
+
+Name: COL115
+Link: https://bsw.iitd.ac.in/coursepage.php?course=COL115
+
+Name: COL202
+Link: https://bsw.iitd.ac.in/coursepage.php?course=COL202
+
+Name: COL215
+Link: https://bsw.iitd.ac.in/coursepage.php?course=COL215
+
+Name: COL216
+Link: https://bsw.iitd.ac.in/coursepage.php?course=COL216
+
+Name: COL226
+Link: https://bsw.iitd.ac.in/coursepage.php?course=COL226
+
+Name: COL331
+Link: https://bsw.iitd.ac.in/coursepage.php?course=COL331
+
+Name: COL333
+Link: https://bsw.iitd.ac.in/coursepage.php?course=COL333
+
+Name: COL334
+Link: https://bsw.iitd.ac.in/coursepage.php?course=COL334
+
+Name: COL341
+Link: https://bsw.iitd.ac.in/coursepage.php?course=COL341
+
+Name: COL351
+Link: https://bsw.iitd.ac.in/coursepage.php?course=COL351
+
+Name: COL351-PAGE1
+Link: https://bsw.iitd.ac.in/coursepage.php?course=COL351-PAGE1
+
+Name: COL351-PAGE2
+Link: https://bsw.iitd.ac.in/coursepage.php?course=COL351-PAGE2
+
+Name: COL352
+Link: https://bsw.iitd.ac.in/coursepage.php?course=COL352
+
+Name: COL362
+Link: https://bsw.iitd.ac.in/coursepage.php?course=COL362
+
+Name: COL633
+Link: https://bsw.iitd.ac.in/coursepage.php?course=COL633
+
+Name: COL702
+Link: https://bsw.iitd.ac.in/coursepage.php?course=COL702
+
+Name: COL729
+Link: https://bsw.iitd.ac.in/coursepage.php?course=COL729
+
+Name: COL759
+Link: https://bsw.iitd.ac.in/coursepage.php?course=COL759
+
+Name: COL774
+Link: https://bsw.iitd.ac.in/coursepage.php?course=COL774
+
+Name: COL775
+Link: https://bsw.iitd.ac.in/coursepage.php?course=COL775
+
+Name: COL780
+Link: https://bsw.iitd.ac.in/coursepage.php?course=COL780
+
+Name: COL786
+Link: https://bsw.iitd.ac.in/coursepage.php?course=COL786
+
+Name: COL788
+Link: https://bsw.iitd.ac.in/coursepage.php?course=COL788
+
+Name: COL818
+Link: https://bsw.iitd.ac.in/coursepage.php?course=COL818
+
+Name: COL865
+Link: https://bsw.iitd.ac.in/coursepage.php?course=COL865
+
+Name: COL867
+Link: https://bsw.iitd.ac.in/coursepage.php?course=COL867
+
+Name: COL870
+Link: https://bsw.iitd.ac.in/coursepage.php?course=COL870
+
+Name: CSL703
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CSL703
+
+Name: CRL-732
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CRL-732
+
+Name: CRL-733
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CRL-733
+
+Name: CRL711
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CRL711
+
+Name: CRL712
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CRL712
+
+Name: CRL724
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CRL724
+
+Name: major
+Link: https://bsw.iitd.ac.in/coursepage.php?course=major
+
+Name: minor1
+Link: https://bsw.iitd.ac.in/coursepage.php?course=minor1
+
+Name: CTL709
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CTL709
+
+Name: CTL727
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CTL727
+
+Name: CVL100
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CVL100
+
+Name: CVL111
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CVL111
+
+Name: CVL121
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CVL121
+
+Name: CVL141
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CVL141
+
+Name: CVL212
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CVL212
+
+Name: CVL222
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CVL222
+
+Name: CVL242
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CVL242
+
+Name: CVL243
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CVL243
+
+Name: CVL244
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CVL244
+
+Name: CVL245
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CVL245
+
+Name: CVL261
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CVL261
+
+Name: CVL281
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CVL281
+
+Name: CVL282
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CVL282
+
+Name: CVL313
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CVL313
+
+Name: CVL321
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CVL321
+
+Name: CVL341
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CVL341
+
+Name: CVL342
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CVL342
+
+Name: CVL381
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CVL381
+
+Name: CVL382
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CVL382
+
+Name: CVL441
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CVL441
+
+Name: CVL462
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CVL462
+
+Name: CVL485
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CVL485
+
+Name: CVL701
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CVL701
+
+Name: CVL702
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CVL702
+
+Name: CVL703
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CVL703
+
+Name: CVL704
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CVL704
+
+Name: CVL705
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CVL705
+
+Name: CVL706
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CVL706
+
+Name: CVL712
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CVL712
+
+Name: CVL715
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CVL715
+
+Name: CVL720
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CVL720
+
+Name: CVL721
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CVL721
+
+Name: CVL723
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CVL723
+
+Name: CVL724
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CVL724
+
+Name: CVL725
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CVL725
+
+Name: CVL728
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CVL728
+
+Name: CVL731
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CVL731
+
+Name: CVL732
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CVL732
+
+Name: CVL734
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CVL734
+
+Name: CVL746
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CVL746
+
+Name: CVL766
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CVL766
+
+Name: CVL771
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CVL771
+
+Name: CVL772
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CVL772
+
+Name: CVL773
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CVL773
+
+Name: CVL774
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CVL774
+
+Name: CVL775
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CVL775
+
+Name: CVL776
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CVL776
+
+Name: CVL779
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CVL779
+
+Name: CVL793
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CVL793
+
+Name: CVL796
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CVL796
+
+Name: CVL801
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CVL801
+
+Name: CVL820
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CVL820
+
+Name: CVL822
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CVL822
+
+Name: CVL830
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CVL830
+
+Name: CVL861
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CVL861
+
+Name: CVL868
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CVL868
+
+Name: CVL871
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CVL871
+
+Name: CVL874
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CVL874
+
+Name: CVL875
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CVL875
+
+Name: CVP243
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CVP243
+
+Name: CYL100
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CYL100
+
+Name: CYL110
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CYL110
+
+Name: CYL120
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CYL120
+
+Name: DSL711
+Link: https://bsw.iitd.ac.in/coursepage.php?course=DSL711
+
+Name: DSL712
+Link: https://bsw.iitd.ac.in/coursepage.php?course=DSL712
+
+Name: DSL731
+Link: https://bsw.iitd.ac.in/coursepage.php?course=DSL731
+
+Name: DSL733
+Link: https://bsw.iitd.ac.in/coursepage.php?course=DSL733
+
+Name: DSP721
+Link: https://bsw.iitd.ac.in/coursepage.php?course=DSP721
+
+Name: EEL100
+Link: https://bsw.iitd.ac.in/coursepage.php?course=EEL100
+
+Name: EEL102
+Link: https://bsw.iitd.ac.in/coursepage.php?course=EEL102
+
+Name: EEL201
+Link: https://bsw.iitd.ac.in/coursepage.php?course=EEL201
+
+Name: EEL202
+Link: https://bsw.iitd.ac.in/coursepage.php?course=EEL202
+
+Name: EEL204
+Link: https://bsw.iitd.ac.in/coursepage.php?course=EEL204
+
+Name: EEL225
+Link: https://bsw.iitd.ac.in/coursepage.php?course=EEL225
+
+Name: EEL301
+Link: https://bsw.iitd.ac.in/coursepage.php?course=EEL301
+
+Name: EEL303
+Link: https://bsw.iitd.ac.in/coursepage.php?course=EEL303
+
+Name: EEL308
+Link: https://bsw.iitd.ac.in/coursepage.php?course=EEL308
+
+Name: EEL316
+Link: https://bsw.iitd.ac.in/coursepage.php?course=EEL316
+
+Name: EEL324
+Link: https://bsw.iitd.ac.in/coursepage.php?course=EEL324
+
+Name: EEL332
+Link: https://bsw.iitd.ac.in/coursepage.php?course=EEL332
+
+Name: EEL358
+Link: https://bsw.iitd.ac.in/coursepage.php?course=EEL358
+
+Name: EEL375
+Link: https://bsw.iitd.ac.in/coursepage.php?course=EEL375
+
+Name: EEL702
+Link: https://bsw.iitd.ac.in/coursepage.php?course=EEL702
+
+Name: EEL709
+Link: https://bsw.iitd.ac.in/coursepage.php?course=EEL709
+
+Name: EEL710
+Link: https://bsw.iitd.ac.in/coursepage.php?course=EEL710
+
+Name: EEL752
+Link: https://bsw.iitd.ac.in/coursepage.php?course=EEL752
+
+Name: EEL781
+Link: https://bsw.iitd.ac.in/coursepage.php?course=EEL781
+
+Name: ELL
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ELL
+
+Name: ELL100
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ELL100
+
+Name: ELL101
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ELL101
+
+Name: ELL1O1
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ELL1O1
+
+Name: ELL201
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ELL201
+
+Name: ELL202
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ELL202
+
+Name: ELL203
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ELL203
+
+Name: ELL205
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ELL205
+
+Name: ELL211
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ELL211
+
+Name: ELL212
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ELL212
+
+Name: ELL225
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ELL225
+
+Name: ELL231
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ELL231
+
+Name: ELL301
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ELL301
+
+Name: ELL302
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ELL302
+
+Name: ELL303
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ELL303
+
+Name: ELL304
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ELL304
+
+Name: ELL305
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ELL305
+
+Name: ELL308
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ELL308
+
+Name: ELL311
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ELL311
+
+Name: ELL315
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ELL315
+
+Name: ELL316
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ELL316
+
+Name: ELL318
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ELL318
+
+Name: ELL332
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ELL332
+
+Name: ELL333
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ELL333
+
+Name: ELL363
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ELL363
+
+Name: ELL365
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ELL365
+
+Name: ELL400
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ELL400
+
+Name: ELL405
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ELL405
+
+Name: ELL409
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ELL409
+
+Name: ELL602
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ELL602
+
+Name: ELL700
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ELL700
+
+Name: ELL701
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ELL701
+
+Name: ELL702
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ELL702
+
+Name: ELL703
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ELL703
+
+Name: ELL705
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ELL705
+
+Name: ELL711
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ELL711
+
+Name: ELL713
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ELL713
+
+Name: ELL715
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ELL715
+
+Name: ELL719
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ELL719
+
+Name: ELL720
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ELL720
+
+Name: ELL725
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ELL725
+
+Name: ELL730
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ELL730
+
+Name: ELL734
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ELL734
+
+Name: ELL735
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ELL735
+
+Name: ELL738
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ELL738
+
+Name: ELL751
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ELL751
+
+Name: ELL760
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ELL760
+
+Name: ELL769
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ELL769
+
+Name: ELL772
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ELL772
+
+Name: ELL775
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ELL775
+
+Name: ELL776
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ELL776
+
+Name: ELL778
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ELL778
+
+Name: ELL780
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ELL780
+
+Name: ELL781
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ELL781
+
+Name: ELL782
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ELL782
+
+Name: ELL784
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ELL784
+
+Name: ELL786
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ELL786
+
+Name: ELL788
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ELL788
+
+Name: ELL793
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ELL793
+
+Name: ELL802
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ELL802
+
+Name: ELL803
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ELL803
+
+Name: ELL806
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ELL806
+
+Name: ELL824
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ELL824
+
+Name: ELL830
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ELL830
+
+Name: ELL834
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ELL834
+
+Name: ELL850
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ELL850
+
+Name: ELL855
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ELL855
+
+Name: ELL894
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ELL894
+
+Name: ELP203
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ELP203
+
+Name: ELP303
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ELP303
+
+Name: EPL105
+Link: https://bsw.iitd.ac.in/coursepage.php?course=EPL105
+
+Name: EPL107
+Link: https://bsw.iitd.ac.in/coursepage.php?course=EPL107
+
+Name: EPL202
+Link: https://bsw.iitd.ac.in/coursepage.php?course=EPL202
+
+Name: EPL208
+Link: https://bsw.iitd.ac.in/coursepage.php?course=EPL208
+
+Name: EPL332
+Link: https://bsw.iitd.ac.in/coursepage.php?course=EPL332
+
+Name: EPL334
+Link: https://bsw.iitd.ac.in/coursepage.php?course=EPL334
+
+Name: EPL336
+Link: https://bsw.iitd.ac.in/coursepage.php?course=EPL336
+
+Name: EPL337
+Link: https://bsw.iitd.ac.in/coursepage.php?course=EPL337
+
+Name: EPL442
+Link: https://bsw.iitd.ac.in/coursepage.php?course=EPL442
+
+Name: EPL443
+Link: https://bsw.iitd.ac.in/coursepage.php?course=EPL443
+
+Name: EPL444
+Link: https://bsw.iitd.ac.in/coursepage.php?course=EPL444
+
+Name: EPV450
+Link: https://bsw.iitd.ac.in/coursepage.php?course=EPV450
+
+Name: EPV453
+Link: https://bsw.iitd.ac.in/coursepage.php?course=EPV453
+
+Name: ESL262
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ESL262
+
+Name: ESL330
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ESL330
+
+Name: ESL350
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ESL350
+
+Name: ESL360
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ESL360
+
+Name: ESL710
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ESL710
+
+Name: ESL711
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ESL711
+
+Name: ESL718
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ESL718
+
+Name: ESL720
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ESL720
+
+Name: ESL724
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ESL724
+
+Name: ESL730
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ESL730
+
+Name: ESL734
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ESL734
+
+Name: ESL740
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ESL740
+
+Name: ESL742
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ESL742
+
+Name: ESL746
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ESL746
+
+Name: ESL750
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ESL750
+
+Name: ESL751
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ESL751
+
+Name: ESL755
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ESL755
+
+Name: ESL770
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ESL770
+
+Name: ESL791
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ESL791
+
+Name: ESL796
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ESL796
+
+Name: ESL840
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ESL840
+
+Name: ESL850
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ESL850
+
+Name: ESL852
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ESL852
+
+Name: ESL855
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ESL855
+
+Name: ESL871
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ESL871
+
+Name: ESL880
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ESL880
+
+Name: ESL885
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ESL885
+
+Name: ESN-702
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ESN-702
+
+Name: ESN-703
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ESN-703
+
+Name: Ell203
+Link: https://bsw.iitd.ac.in/coursepage.php?course=Ell203
+
+Name: Ell301
+Link: https://bsw.iitd.ac.in/coursepage.php?course=Ell301
+
+Name: Ell302
+Link: https://bsw.iitd.ac.in/coursepage.php?course=Ell302
+
+Name: Ell303
+Link: https://bsw.iitd.ac.in/coursepage.php?course=Ell303
+
+Name: Ell311
+Link: https://bsw.iitd.ac.in/coursepage.php?course=Ell311
+
+Name: Ell703
+Link: https://bsw.iitd.ac.in/coursepage.php?course=Ell703
+
+Name: Ell715
+Link: https://bsw.iitd.ac.in/coursepage.php?course=Ell715
+
+Name: Esl730
+Link: https://bsw.iitd.ac.in/coursepage.php?course=Esl730
+
+Name: Esl760
+Link: https://bsw.iitd.ac.in/coursepage.php?course=Esl760
+
+Name: FY
+Link: https://bsw.iitd.ac.in/coursepage.php?course=FY
+
+Name: HSL611
+Link: https://bsw.iitd.ac.in/coursepage.php?course=HSL611
+
+Name: HSL718
+Link: https://bsw.iitd.ac.in/coursepage.php?course=HSL718
+
+Name: HUL
+Link: https://bsw.iitd.ac.in/coursepage.php?course=HUL
+
+Name: HUL209
+Link: https://bsw.iitd.ac.in/coursepage.php?course=HUL209
+
+Name: HUL211
+Link: https://bsw.iitd.ac.in/coursepage.php?course=HUL211
+
+Name: HUL212
+Link: https://bsw.iitd.ac.in/coursepage.php?course=HUL212
+
+Name: HUL213
+Link: https://bsw.iitd.ac.in/coursepage.php?course=HUL213
+
+Name: HUL215
+Link: https://bsw.iitd.ac.in/coursepage.php?course=HUL215
+
+Name: HUL216
+Link: https://bsw.iitd.ac.in/coursepage.php?course=HUL216
+
+Name: HUL230
+Link: https://bsw.iitd.ac.in/coursepage.php?course=HUL230
+
+Name: HUL231
+Link: https://bsw.iitd.ac.in/coursepage.php?course=HUL231
+
+Name: HUL232
+Link: https://bsw.iitd.ac.in/coursepage.php?course=HUL232
+
+Name: HUL235
+Link: https://bsw.iitd.ac.in/coursepage.php?course=HUL235
+
+Name: HUL236
+Link: https://bsw.iitd.ac.in/coursepage.php?course=HUL236
+
+Name: HUL237
+Link: https://bsw.iitd.ac.in/coursepage.php?course=HUL237
+
+Name: HUL238
+Link: https://bsw.iitd.ac.in/coursepage.php?course=HUL238
+
+Name: HUL239
+Link: https://bsw.iitd.ac.in/coursepage.php?course=HUL239
+
+Name: HUL242
+Link: https://bsw.iitd.ac.in/coursepage.php?course=HUL242
+
+Name: HUL243
+Link: https://bsw.iitd.ac.in/coursepage.php?course=HUL243
+
+Name: HUL251
+Link: https://bsw.iitd.ac.in/coursepage.php?course=HUL251
+
+Name: HUL252
+Link: https://bsw.iitd.ac.in/coursepage.php?course=HUL252
+
+Name: HUL253
+Link: https://bsw.iitd.ac.in/coursepage.php?course=HUL253
+
+Name: HUL254
+Link: https://bsw.iitd.ac.in/coursepage.php?course=HUL254
+
+Name: HUL256
+Link: https://bsw.iitd.ac.in/coursepage.php?course=HUL256
+
+Name: HUL258
+Link: https://bsw.iitd.ac.in/coursepage.php?course=HUL258
+
+Name: HUL261
+Link: https://bsw.iitd.ac.in/coursepage.php?course=HUL261
+
+Name: HUL261A
+Link: https://bsw.iitd.ac.in/coursepage.php?course=HUL261A
+
+Name: HUL263
+Link: https://bsw.iitd.ac.in/coursepage.php?course=HUL263
+
+Name: HUL265
+Link: https://bsw.iitd.ac.in/coursepage.php?course=HUL265
+
+Name: HUL267
+Link: https://bsw.iitd.ac.in/coursepage.php?course=HUL267
+
+Name: HUL271
+Link: https://bsw.iitd.ac.in/coursepage.php?course=HUL271
+
+Name: HUL271(Ravinder
+Link: https://bsw.iitd.ac.in/coursepage.php?course=HUL271(Ravinder
+
+Name: HUL272
+Link: https://bsw.iitd.ac.in/coursepage.php?course=HUL272
+
+Name: HUL273
+Link: https://bsw.iitd.ac.in/coursepage.php?course=HUL273
+
+Name: HUL274
+Link: https://bsw.iitd.ac.in/coursepage.php?course=HUL274
+
+Name: HUL275
+Link: https://bsw.iitd.ac.in/coursepage.php?course=HUL275
+
+Name: HUL276
+Link: https://bsw.iitd.ac.in/coursepage.php?course=HUL276
+
+Name: HUL281
+Link: https://bsw.iitd.ac.in/coursepage.php?course=HUL281
+
+Name: HUL284
+Link: https://bsw.iitd.ac.in/coursepage.php?course=HUL284
+
+Name: HUL286
+Link: https://bsw.iitd.ac.in/coursepage.php?course=HUL286
+
+Name: HUL288
+Link: https://bsw.iitd.ac.in/coursepage.php?course=HUL288
+
+Name: HUL289
+Link: https://bsw.iitd.ac.in/coursepage.php?course=HUL289
+
+Name: HUL290
+Link: https://bsw.iitd.ac.in/coursepage.php?course=HUL290
+
+Name: HUL311
+Link: https://bsw.iitd.ac.in/coursepage.php?course=HUL311
+
+Name: HUL312
+Link: https://bsw.iitd.ac.in/coursepage.php?course=HUL312
+
+Name: HUL315
+Link: https://bsw.iitd.ac.in/coursepage.php?course=HUL315
+
+Name: HUL316
+Link: https://bsw.iitd.ac.in/coursepage.php?course=HUL316
+
+Name: HUL317
+Link: https://bsw.iitd.ac.in/coursepage.php?course=HUL317
+
+Name: HUL320
+Link: https://bsw.iitd.ac.in/coursepage.php?course=HUL320
+
+Name: HUL331
+Link: https://bsw.iitd.ac.in/coursepage.php?course=HUL331
+
+Name: HUL333
+Link: https://bsw.iitd.ac.in/coursepage.php?course=HUL333
+
+Name: HUL336
+Link: https://bsw.iitd.ac.in/coursepage.php?course=HUL336
+
+Name: HUL340
+Link: https://bsw.iitd.ac.in/coursepage.php?course=HUL340
+
+Name: HUL350
+Link: https://bsw.iitd.ac.in/coursepage.php?course=HUL350
+
+Name: HUL352
+Link: https://bsw.iitd.ac.in/coursepage.php?course=HUL352
+
+Name: HUL354
+Link: https://bsw.iitd.ac.in/coursepage.php?course=HUL354
+
+Name: HUL356
+Link: https://bsw.iitd.ac.in/coursepage.php?course=HUL356
+
+Name: HUL357
+Link: https://bsw.iitd.ac.in/coursepage.php?course=HUL357
+
+Name: HUL360
+Link: https://bsw.iitd.ac.in/coursepage.php?course=HUL360
+
+Name: HUL361
+Link: https://bsw.iitd.ac.in/coursepage.php?course=HUL361
+
+Name: HUL362
+Link: https://bsw.iitd.ac.in/coursepage.php?course=HUL362
+
+Name: HUL364
+Link: https://bsw.iitd.ac.in/coursepage.php?course=HUL364
+
+Name: HUL370
+Link: https://bsw.iitd.ac.in/coursepage.php?course=HUL370
+
+Name: HUL375
+Link: https://bsw.iitd.ac.in/coursepage.php?course=HUL375
+
+Name: HUL376
+Link: https://bsw.iitd.ac.in/coursepage.php?course=HUL376
+
+Name: HUL377
+Link: https://bsw.iitd.ac.in/coursepage.php?course=HUL377
+
+Name: HUL378
+Link: https://bsw.iitd.ac.in/coursepage.php?course=HUL378
+
+Name: HUL380
+Link: https://bsw.iitd.ac.in/coursepage.php?course=HUL380
+
+Name: HUL381
+Link: https://bsw.iitd.ac.in/coursepage.php?course=HUL381
+
+Name: HUL707
+Link: https://bsw.iitd.ac.in/coursepage.php?course=HUL707
+
+Name: HUL709
+Link: https://bsw.iitd.ac.in/coursepage.php?course=HUL709
+
+Name: HUL711
+Link: https://bsw.iitd.ac.in/coursepage.php?course=HUL711
+
+Name: HUL715
+Link: https://bsw.iitd.ac.in/coursepage.php?course=HUL715
+
+Name: HUL762
+Link: https://bsw.iitd.ac.in/coursepage.php?course=HUL762
+
+Name: HUL810
+Link: https://bsw.iitd.ac.in/coursepage.php?course=HUL810
+
+Name: HUL841
+Link: https://bsw.iitd.ac.in/coursepage.php?course=HUL841
+
+Name: HUL845
+Link: https://bsw.iitd.ac.in/coursepage.php?course=HUL845
+
+Name: Hul376
+Link: https://bsw.iitd.ac.in/coursepage.php?course=Hul376
+
+Name: IDL711
+Link: https://bsw.iitd.ac.in/coursepage.php?course=IDL711
+
+Name: IDL712
+Link: https://bsw.iitd.ac.in/coursepage.php?course=IDL712
+
+Name: ITL
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ITL
+
+Name: ITL702
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ITL702
+
+Name: ITL703
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ITL703
+
+Name: ITL705
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ITL705
+
+Name: ITL709
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ITL709
+
+Name: ITL717
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ITL717
+
+Name: ITL752
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ITL752
+
+Name: ITL760
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ITL760
+
+Name: JRL301
+Link: https://bsw.iitd.ac.in/coursepage.php?course=JRL301
+
+Name: MAL145
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MAL145
+
+Name: MAL210
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MAL210
+
+Name: MAL230
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MAL230
+
+Name: MAL245
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MAL245
+
+Name: MAL250
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MAL250
+
+Name: MAL260
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MAL260
+
+Name: MAL335
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MAL335
+
+Name: MAL342
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MAL342
+
+Name: MAL382
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MAL382
+
+Name: MAL390
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MAL390
+
+Name: MAL514
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MAL514
+
+Name: MAL516
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MAL516
+
+Name: MAL518
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MAL518
+
+Name: MAL522
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MAL522
+
+Name: MAL526
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MAL526
+
+Name: MAL602
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MAL602
+
+Name: MAL732
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MAL732
+
+Name: MAL741
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MAL741
+
+Name: MAL745
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MAL745
+
+Name: MAL754
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MAL754
+
+Name: MAL853
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MAL853
+
+Name: MCL
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MCL
+
+Name: MCL100
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MCL100
+
+Name: MCL111
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MCL111
+
+Name: MCL131
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MCL131
+
+Name: MCL132
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MCL132
+
+Name: MCL133
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MCL133
+
+Name: MCL134
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MCL134
+
+Name: MCL135
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MCL135
+
+Name: MCL136
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MCL136
+
+Name: MCL140
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MCL140
+
+Name: MCL141
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MCL141
+
+Name: MCL142
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MCL142
+
+Name: MCL143
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MCL143
+
+Name: MCL201
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MCL201
+
+Name: MCL211
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MCL211
+
+Name: MCL212
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MCL212
+
+Name: MCL231
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MCL231
+
+Name: MCL241
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MCL241
+
+Name: MCL242
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MCL242
+
+Name: MCL261
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MCL261
+
+Name: MCL311
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MCL311
+
+Name: MCL314
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MCL314
+
+Name: MCL321
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MCL321
+
+Name: MCL322
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MCL322
+
+Name: MCL331
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MCL331
+
+Name: MCL343
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MCL343
+
+Name: MCL344
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MCL344
+
+Name: MCL347
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MCL347
+
+Name: MCL361
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MCL361
+
+Name: MCL431
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MCL431
+
+Name: MCL702
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MCL702
+
+Name: MCL721
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MCL721
+
+Name: MCL729
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MCL729
+
+Name: MCL730
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MCL730
+
+Name: MCL731
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MCL731
+
+Name: MCL732
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MCL732
+
+Name: MCL733
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MCL733
+
+Name: MCL735
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MCL735
+
+Name: MCL736
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MCL736
+
+Name: MCL738
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MCL738
+
+Name: MCL742
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MCL742
+
+Name: MCL743
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MCL743
+
+Name: MCL745
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MCL745
+
+Name: MCL747
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MCL747
+
+Name: MCL748
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MCL748
+
+Name: MCL754
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MCL754
+
+Name: MCL756
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MCL756
+
+Name: MCL765
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MCL765
+
+Name: MCL771
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MCL771
+
+Name: MCL782
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MCL782
+
+Name: MCL813
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MCL813
+
+Name: MCL814
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MCL814
+
+Name: MCL823
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MCL823
+
+Name: MCL837
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MCL837
+
+Name: MCL840
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MCL840
+
+Name: MCP
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MCP
+
+Name: MCP100
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MCP100
+
+Name: MCP101
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MCP101
+
+Name: MCV390
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MCV390
+
+Name: MEL140
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MEL140
+
+Name: MEL241
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MEL241
+
+Name: MEL312
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MEL312
+
+Name: MEL314
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MEL314
+
+Name: MEL322
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MEL322
+
+Name: MEL323
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MEL323
+
+Name: MEL334
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MEL334
+
+Name: MEL731
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MEL731
+
+Name: MEP201
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MEP201
+
+Name: ML
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ML
+
+Name: MLL102
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MLL102
+
+Name: MLL104
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MLL104
+
+Name: MLL212
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MLL212
+
+Name: MLL452
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MLL452
+
+Name: MLL711
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MLL711
+
+Name: MLL746
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MLL746
+
+Name: MSL301
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MSL301
+
+Name: MSL302
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MSL302
+
+Name: MSL303
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MSL303
+
+Name: MSL304
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MSL304
+
+Name: MSL711
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MSL711
+
+Name: MSL720
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MSL720
+
+Name: MSL734
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MSL734
+
+Name: MSL745
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MSL745
+
+Name: MSL802
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MSL802
+
+Name: MSL871
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MSL871
+
+Name: MSL873
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MSL873
+
+Name: MSL875
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MSL875
+
+Name: MSL879
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MSL879
+
+Name: MSV805
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MSV805
+
+Name: MTL
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MTL
+
+Name: MTL100
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MTL100
+
+Name: MTL101
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MTL101
+
+Name: MTL102
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MTL102
+
+Name: MTL103
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MTL103
+
+Name: MTL104
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MTL104
+
+Name: MTL105
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MTL105
+
+Name: MTL106
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MTL106
+
+Name: MTL107
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MTL107
+
+Name: MTL108
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MTL108
+
+Name: MTL122
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MTL122
+
+Name: MTL145
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MTL145
+
+Name: MTL146
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MTL146
+
+Name: MTL180
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MTL180
+
+Name: MTL342
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MTL342
+
+Name: MTL390
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MTL390
+
+Name: MTL411
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MTL411
+
+Name: MTL458
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MTL458
+
+Name: MTL503
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MTL503
+
+Name: MTL506
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MTL506
+
+Name: MTL507
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MTL507
+
+Name: MTL509
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MTL509
+
+Name: MTL712
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MTL712
+
+Name: MTL717
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MTL717
+
+Name: MTL725
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MTL725
+
+Name: MTL730
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MTL730
+
+Name: MTL732
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MTL732
+
+Name: MTL733
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MTL733
+
+Name: MTL737
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MTL737
+
+Name: MTL741
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MTL741
+
+Name: MTL742
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MTL742
+
+Name: MTL743
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MTL743
+
+Name: MTL744
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MTL744
+
+Name: MTL763
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MTL763
+
+Name: MTL766
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MTL766
+
+Name: MTL768
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MTL768
+
+Name: MTL770
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MTL770
+
+Name: MTL776
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MTL776
+
+Name: MTL781
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MTL781
+
+Name: MTL782
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MTL782
+
+Name: MTL783
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MTL783
+
+Name: MTL854
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MTL854
+
+Name: MTL860
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MTL860
+
+Name: MTLl717
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MTLl717
+
+Name: MTP290
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MTP290
+
+Name: Mcl212
+Link: https://bsw.iitd.ac.in/coursepage.php?course=Mcl212
+
+Name: Msl301
+Link: https://bsw.iitd.ac.in/coursepage.php?course=Msl301
+
+Name: Msl303
+Link: https://bsw.iitd.ac.in/coursepage.php?course=Msl303
+
+Name: Mtl101
+Link: https://bsw.iitd.ac.in/coursepage.php?course=Mtl101
+
+Name: Mtl180
+Link: https://bsw.iitd.ac.in/coursepage.php?course=Mtl180
+
+Name: PHL100
+Link: https://bsw.iitd.ac.in/coursepage.php?course=PHL100
+
+Name: PHL120
+Link: https://bsw.iitd.ac.in/coursepage.php?course=PHL120
+
+Name: PHL302
+Link: https://bsw.iitd.ac.in/coursepage.php?course=PHL302
+
+Name: PHL569
+Link: https://bsw.iitd.ac.in/coursepage.php?course=PHL569
+
+Name: PHL752
+Link: https://bsw.iitd.ac.in/coursepage.php?course=PHL752
+
+Name: PHL754
+Link: https://bsw.iitd.ac.in/coursepage.php?course=PHL754
+
+Name: PHL755
+Link: https://bsw.iitd.ac.in/coursepage.php?course=PHL755
+
+Name: CMP100
+Link: https://bsw.iitd.ac.in/coursepage.php?course=CMP100
+
+Name: MCP100
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MCP100
+
+Name: MCP101
+Link: https://bsw.iitd.ac.in/coursepage.php?course=MCP101
+
+Name: PYP100
+Link: https://bsw.iitd.ac.in/coursepage.php?course=PYP100
+
+Name: PTL-713
+Link: https://bsw.iitd.ac.in/coursepage.php?course=PTL-713
+
+Name: PTL707
+Link: https://bsw.iitd.ac.in/coursepage.php?course=PTL707
+
+Name: PTL709
+Link: https://bsw.iitd.ac.in/coursepage.php?course=PTL709
+
+Name: PTL713
+Link: https://bsw.iitd.ac.in/coursepage.php?course=PTL713
+
+Name: PYL100
+Link: https://bsw.iitd.ac.in/coursepage.php?course=PYL100
+
+Name: PYL101
+Link: https://bsw.iitd.ac.in/coursepage.php?course=PYL101
+
+Name: PYL102
+Link: https://bsw.iitd.ac.in/coursepage.php?course=PYL102
+
+Name: PYL111
+Link: https://bsw.iitd.ac.in/coursepage.php?course=PYL111
+
+Name: PYL112
+Link: https://bsw.iitd.ac.in/coursepage.php?course=PYL112
+
+Name: PYL113
+Link: https://bsw.iitd.ac.in/coursepage.php?course=PYL113
+
+Name: PYL114
+Link: https://bsw.iitd.ac.in/coursepage.php?course=PYL114
+
+Name: PYL115
+Link: https://bsw.iitd.ac.in/coursepage.php?course=PYL115
+
+Name: PYL116
+Link: https://bsw.iitd.ac.in/coursepage.php?course=PYL116
+
+Name: PYL201
+Link: https://bsw.iitd.ac.in/coursepage.php?course=PYL201
+
+Name: PYL202
+Link: https://bsw.iitd.ac.in/coursepage.php?course=PYL202
+
+Name: PYL203
+Link: https://bsw.iitd.ac.in/coursepage.php?course=PYL203
+
+Name: PYL204
+Link: https://bsw.iitd.ac.in/coursepage.php?course=PYL204
+
+Name: PYL206
+Link: https://bsw.iitd.ac.in/coursepage.php?course=PYL206
+
+Name: PYL302
+Link: https://bsw.iitd.ac.in/coursepage.php?course=PYL302
+
+Name: PYL312
+Link: https://bsw.iitd.ac.in/coursepage.php?course=PYL312
+
+Name: PYL313
+Link: https://bsw.iitd.ac.in/coursepage.php?course=PYL313
+
+Name: PYL321
+Link: https://bsw.iitd.ac.in/coursepage.php?course=PYL321
+
+Name: PYL413
+Link: https://bsw.iitd.ac.in/coursepage.php?course=PYL413
+
+Name: PYL421
+Link: https://bsw.iitd.ac.in/coursepage.php?course=PYL421
+
+Name: PYL422
+Link: https://bsw.iitd.ac.in/coursepage.php?course=PYL422
+
+Name: PYL434
+Link: https://bsw.iitd.ac.in/coursepage.php?course=PYL434
+
+Name: PYL435
+Link: https://bsw.iitd.ac.in/coursepage.php?course=PYL435
+
+Name: PYL552
+Link: https://bsw.iitd.ac.in/coursepage.php?course=PYL552
+
+Name: PYL553
+Link: https://bsw.iitd.ac.in/coursepage.php?course=PYL553
+
+Name: PYL557
+Link: https://bsw.iitd.ac.in/coursepage.php?course=PYL557
+
+Name: PYL563
+Link: https://bsw.iitd.ac.in/coursepage.php?course=PYL563
+
+Name: PYL655
+Link: https://bsw.iitd.ac.in/coursepage.php?course=PYL655
+
+Name: PYL704
+Link: https://bsw.iitd.ac.in/coursepage.php?course=PYL704
+
+Name: PYL705
+Link: https://bsw.iitd.ac.in/coursepage.php?course=PYL705
+
+Name: PYL725
+Link: https://bsw.iitd.ac.in/coursepage.php?course=PYL725
+
+Name: PYL726
+Link: https://bsw.iitd.ac.in/coursepage.php?course=PYL726
+
+Name: PYL729
+Link: https://bsw.iitd.ac.in/coursepage.php?course=PYL729
+
+Name: PYL739
+Link: https://bsw.iitd.ac.in/coursepage.php?course=PYL739
+
+Name: PYL740
+Link: https://bsw.iitd.ac.in/coursepage.php?course=PYL740
+
+Name: PYL742
+Link: https://bsw.iitd.ac.in/coursepage.php?course=PYL742
+
+Name: PYL743
+Link: https://bsw.iitd.ac.in/coursepage.php?course=PYL743
+
+Name: PYL744
+Link: https://bsw.iitd.ac.in/coursepage.php?course=PYL744
+
+Name: PYL749
+Link: https://bsw.iitd.ac.in/coursepage.php?course=PYL749
+
+Name: PYL753
+Link: https://bsw.iitd.ac.in/coursepage.php?course=PYL753
+
+Name: PYL756
+Link: https://bsw.iitd.ac.in/coursepage.php?course=PYL756
+
+Name: PYL757
+Link: https://bsw.iitd.ac.in/coursepage.php?course=PYL757
+
+Name: PYL760
+Link: https://bsw.iitd.ac.in/coursepage.php?course=PYL760
+
+Name: PYL762
+Link: https://bsw.iitd.ac.in/coursepage.php?course=PYL762
+
+Name: PYL792
+Link: https://bsw.iitd.ac.in/coursepage.php?course=PYL792
+
+Name: PYL800
+Link: https://bsw.iitd.ac.in/coursepage.php?course=PYL800
+
+Name: PYL879
+Link: https://bsw.iitd.ac.in/coursepage.php?course=PYL879
+
+Name: Pyl102
+Link: https://bsw.iitd.ac.in/coursepage.php?course=Pyl102
+
+Name: RDL700
+Link: https://bsw.iitd.ac.in/coursepage.php?course=RDL700
+
+Name: RDL701
+Link: https://bsw.iitd.ac.in/coursepage.php?course=RDL701
+
+Name: RDL701|2014-2015
+Link: https://bsw.iitd.ac.in/coursepage.php?course=RDL701|2014-2015
+
+Name: RDL705
+Link: https://bsw.iitd.ac.in/coursepage.php?course=RDL705
+
+Name: RDL722
+Link: https://bsw.iitd.ac.in/coursepage.php?course=RDL722
+
+Name: RDL724
+Link: https://bsw.iitd.ac.in/coursepage.php?course=RDL724
+
+Name: RDL725
+Link: https://bsw.iitd.ac.in/coursepage.php?course=RDL725
+
+Name: RDL727
+Link: https://bsw.iitd.ac.in/coursepage.php?course=RDL727
+
+Name: RDL728
+Link: https://bsw.iitd.ac.in/coursepage.php?course=RDL728
+
+Name: RDL730
+Link: https://bsw.iitd.ac.in/coursepage.php?course=RDL730
+
+Name: RDL735
+Link: https://bsw.iitd.ac.in/coursepage.php?course=RDL735
+
+Name: RDL740
+Link: https://bsw.iitd.ac.in/coursepage.php?course=RDL740
+
+Name: RDL760
+Link: https://bsw.iitd.ac.in/coursepage.php?course=RDL760
+
+Name: RDL761
+Link: https://bsw.iitd.ac.in/coursepage.php?course=RDL761
+
+Name: RDL807
+Link: https://bsw.iitd.ac.in/coursepage.php?course=RDL807
+
+Name: RdL701
+Link: https://bsw.iitd.ac.in/coursepage.php?course=RdL701
+
+Name: Rdl701
+Link: https://bsw.iitd.ac.in/coursepage.php?course=Rdl701
+
+Name: SBL100
+Link: https://bsw.iitd.ac.in/coursepage.php?course=SBL100
+
+Name: SBL101
+Link: https://bsw.iitd.ac.in/coursepage.php?course=SBL101
+
+Name: SBL201
+Link: https://bsw.iitd.ac.in/coursepage.php?course=SBL201
+
+Name: SBL703
+Link: https://bsw.iitd.ac.in/coursepage.php?course=SBL703
+
+Name: SBL704
+Link: https://bsw.iitd.ac.in/coursepage.php?course=SBL704
+
+Name: SBL705
+Link: https://bsw.iitd.ac.in/coursepage.php?course=SBL705
+
+Name: SBL708
+Link: https://bsw.iitd.ac.in/coursepage.php?course=SBL708
+
+Name: SBL710
+Link: https://bsw.iitd.ac.in/coursepage.php?course=SBL710
+
+Name: SBL714
+Link: https://bsw.iitd.ac.in/coursepage.php?course=SBL714
+
+Name: SBL720
+Link: https://bsw.iitd.ac.in/coursepage.php?course=SBL720
+
+Name: SBL724
+Link: https://bsw.iitd.ac.in/coursepage.php?course=SBL724
+
+Name: SBV887
+Link: https://bsw.iitd.ac.in/coursepage.php?course=SBV887
+
+Name: SEL850
+Link: https://bsw.iitd.ac.in/coursepage.php?course=SEL850
+
+Name: SIL618
+Link: https://bsw.iitd.ac.in/coursepage.php?course=SIL618
+
+Name: SIL765
+Link: https://bsw.iitd.ac.in/coursepage.php?course=SIL765
+
+Name: SIL801
+Link: https://bsw.iitd.ac.in/coursepage.php?course=SIL801
+
+Name: SML305
+Link: https://bsw.iitd.ac.in/coursepage.php?course=SML305
+
+Name: SML401
+Link: https://bsw.iitd.ac.in/coursepage.php?course=SML401
+
+Name: SML701
+Link: https://bsw.iitd.ac.in/coursepage.php?course=SML701
+
+Name: SML780
+Link: https://bsw.iitd.ac.in/coursepage.php?course=SML780
+
+Name: SML845
+Link: https://bsw.iitd.ac.in/coursepage.php?course=SML845
+
+Name: SML865
+Link: https://bsw.iitd.ac.in/coursepage.php?course=SML865
+
+Name: SML870
+Link: https://bsw.iitd.ac.in/coursepage.php?course=SML870
+
+Name: SML874
+Link: https://bsw.iitd.ac.in/coursepage.php?course=SML874
+
+Name: SML875
+Link: https://bsw.iitd.ac.in/coursepage.php?course=SML875
+
+Name: TRL701
+Link: https://bsw.iitd.ac.in/coursepage.php?course=TRL701
+
+Name: TTL311
+Link: https://bsw.iitd.ac.in/coursepage.php?course=TTL311
+
+Name: TTL321
+Link: https://bsw.iitd.ac.in/coursepage.php?course=TTL321
+
+Name: TTL361
+Link: https://bsw.iitd.ac.in/coursepage.php?course=TTL361
+
+Name: TTL362
+Link: https://bsw.iitd.ac.in/coursepage.php?course=TTL362
+
+Name: TTL365
+Link: https://bsw.iitd.ac.in/coursepage.php?course=TTL365
+
+Name: TTL731
+Link: https://bsw.iitd.ac.in/coursepage.php?course=TTL731
+
+Name: TTL740
+Link: https://bsw.iitd.ac.in/coursepage.php?course=TTL740
+
+Name: TTL746
+Link: https://bsw.iitd.ac.in/coursepage.php?course=TTL746
+
+Name: TTL762
+Link: https://bsw.iitd.ac.in/coursepage.php?course=TTL762
+
+Name: TTL763
+Link: https://bsw.iitd.ac.in/coursepage.php?course=TTL763
+
+Name: TTL764
+Link: https://bsw.iitd.ac.in/coursepage.php?course=TTL764
+
+Name: TTL765
+Link: https://bsw.iitd.ac.in/coursepage.php?course=TTL765
+
+Name: TTL771
+Link: https://bsw.iitd.ac.in/coursepage.php?course=TTL771
+
+Name: TTL773
+Link: https://bsw.iitd.ac.in/coursepage.php?course=TTL773
+
+Name: TXL
+Link: https://bsw.iitd.ac.in/coursepage.php?course=TXL
+
+Name: TXL-231
+Link: https://bsw.iitd.ac.in/coursepage.php?course=TXL-231
+
+Name: TXL-759
+Link: https://bsw.iitd.ac.in/coursepage.php?course=TXL-759
+
+Name: TXL111
+Link: https://bsw.iitd.ac.in/coursepage.php?course=TXL111
+
+Name: TXL130
+Link: https://bsw.iitd.ac.in/coursepage.php?course=TXL130
+
+Name: TXL131
+Link: https://bsw.iitd.ac.in/coursepage.php?course=TXL131
+
+Name: TXL141
+Link: https://bsw.iitd.ac.in/coursepage.php?course=TXL141
+
+Name: TXL212
+Link: https://bsw.iitd.ac.in/coursepage.php?course=TXL212
+
+Name: TXL221
+Link: https://bsw.iitd.ac.in/coursepage.php?course=TXL221
+
+Name: TXL222
+Link: https://bsw.iitd.ac.in/coursepage.php?course=TXL222
+
+Name: TXL231
+Link: https://bsw.iitd.ac.in/coursepage.php?course=TXL231
+
+Name: TXL232
+Link: https://bsw.iitd.ac.in/coursepage.php?course=TXL232
+
+Name: TXL241
+Link: https://bsw.iitd.ac.in/coursepage.php?course=TXL241
+
+Name: TXL242
+Link: https://bsw.iitd.ac.in/coursepage.php?course=TXL242
+
+Name: TXL321
+Link: https://bsw.iitd.ac.in/coursepage.php?course=TXL321
+
+Name: TXL361
+Link: https://bsw.iitd.ac.in/coursepage.php?course=TXL361
+
+Name: TXL371
+Link: https://bsw.iitd.ac.in/coursepage.php?course=TXL371
+
+Name: TXL372
+Link: https://bsw.iitd.ac.in/coursepage.php?course=TXL372
+
+Name: TXL382
+Link: https://bsw.iitd.ac.in/coursepage.php?course=TXL382
+
+Name: TXL700
+Link: https://bsw.iitd.ac.in/coursepage.php?course=TXL700
+
+Name: TXL719
+Link: https://bsw.iitd.ac.in/coursepage.php?course=TXL719
+
+Name: TXL740
+Link: https://bsw.iitd.ac.in/coursepage.php?course=TXL740
+
+Name: TXL748
+Link: https://bsw.iitd.ac.in/coursepage.php?course=TXL748
+
+Name: TXL752
+Link: https://bsw.iitd.ac.in/coursepage.php?course=TXL752
+
+Name: TXL754
+Link: https://bsw.iitd.ac.in/coursepage.php?course=TXL754
+
+Name: TXL766
+Link: https://bsw.iitd.ac.in/coursepage.php?course=TXL766
+
+Name: TXL771
+Link: https://bsw.iitd.ac.in/coursepage.php?course=TXL771
+
+Name: TXL773
+Link: https://bsw.iitd.ac.in/coursepage.php?course=TXL773
+
+Name: TXL775
+Link: https://bsw.iitd.ac.in/coursepage.php?course=TXL775
+
+Name: TXL777
+Link: https://bsw.iitd.ac.in/coursepage.php?course=TXL777
+
+Name: TXL781
+Link: https://bsw.iitd.ac.in/coursepage.php?course=TXL781
+
+Name: TXL782
+Link: https://bsw.iitd.ac.in/coursepage.php?course=TXL782
+
+Name: TXL784
+Link: https://bsw.iitd.ac.in/coursepage.php?course=TXL784
+
+Name: Txl371
+Link: https://bsw.iitd.ac.in/coursepage.php?course=Txl371
+
+Name: Txl381
+Link: https://bsw.iitd.ac.in/coursepage.php?course=Txl381
+
+Name: Txl752
+Link: https://bsw.iitd.ac.in/coursepage.php?course=Txl752
+
+Name: VEL700
+Link: https://bsw.iitd.ac.in/coursepage.php?course=VEL700
+
+Name: apl100
+Link: https://bsw.iitd.ac.in/coursepage.php?course=apl100
+
+Name: apl107
+Link: https://bsw.iitd.ac.in/coursepage.php?course=apl107
+
+Name: apl108
+Link: https://bsw.iitd.ac.in/coursepage.php?course=apl108
+
+Name: asl350
+Link: https://bsw.iitd.ac.in/coursepage.php?course=asl350
+
+Name: asl360
+Link: https://bsw.iitd.ac.in/coursepage.php?course=asl360
+
+Name: cll121
+Link: https://bsw.iitd.ac.in/coursepage.php?course=cll121
+
+Name: cml100
+Link: https://bsw.iitd.ac.in/coursepage.php?course=cml100
+
+Name: col100
+Link: https://bsw.iitd.ac.in/coursepage.php?course=col100
+
+Name: col334
+Link: https://bsw.iitd.ac.in/coursepage.php?course=col334
+
+Name: col380
+Link: https://bsw.iitd.ac.in/coursepage.php?course=col380
+
+Name: col774
+Link: https://bsw.iitd.ac.in/coursepage.php?course=col774
+
+Name: cvl242
+Link: https://bsw.iitd.ac.in/coursepage.php?course=cvl242
+
+Name: cvl243
+Link: https://bsw.iitd.ac.in/coursepage.php?course=cvl243
+
+Name: cvl261
+Link: https://bsw.iitd.ac.in/coursepage.php?course=cvl261
+
+Name: cvl281
+Link: https://bsw.iitd.ac.in/coursepage.php?course=cvl281
+
+Name: cvl321
+Link: https://bsw.iitd.ac.in/coursepage.php?course=cvl321
+
+Name: ell201
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ell201
+
+Name: ell231
+Link: https://bsw.iitd.ac.in/coursepage.php?course=ell231
+
+Name: esl
+Link: https://bsw.iitd.ac.in/coursepage.php?course=esl
+
+Name: hul239
+Link: https://bsw.iitd.ac.in/coursepage.php?course=hul239
+
+Name: hul242
+Link: https://bsw.iitd.ac.in/coursepage.php?course=hul242
+
+Name: hul261
+Link: https://bsw.iitd.ac.in/coursepage.php?course=hul261
+
+Name: mcp100
+Link: https://bsw.iitd.ac.in/coursepage.php?course=mcp100
+
+Name: mtl106
+Link: https://bsw.iitd.ac.in/coursepage.php?course=mtl106
+
+Name: mtl107
+Link: https://bsw.iitd.ac.in/coursepage.php?course=mtl107
+
+Name: mtl108
+Link: https://bsw.iitd.ac.in/coursepage.php?course=mtl108
+
+Name: mtl730
+Link: https://bsw.iitd.ac.in/coursepage.php?course=mtl730
+
+Name: mtl732
+Link: https://bsw.iitd.ac.in/coursepage.php?course=mtl732
+
+Name: mtl733
+Link: https://bsw.iitd.ac.in/coursepage.php?course=mtl733
+
+Name: mtl766
+Link: https://bsw.iitd.ac.in/coursepage.php?course=mtl766
+
+Name: mtl783
+Link: https://bsw.iitd.ac.in/coursepage.php?course=mtl783
+
+Name: pyl704
+Link: https://bsw.iitd.ac.in/coursepage.php?course=pyl704
+
+Name: txl111
+Link: https://bsw.iitd.ac.in/coursepage.php?course=txl111
+
+Name: txl212
+Link: https://bsw.iitd.ac.in/coursepage.php?course=txl212
+
+Name: txl221
+Link: https://bsw.iitd.ac.in/coursepage.php?course=txl221
+
+Name: txl222
+Link: https://bsw.iitd.ac.in/coursepage.php?course=txl222
+
+Name: txl232
+Link: https://bsw.iitd.ac.in/coursepage.php?course=txl232
+
+Name: txl241
+Link: https://bsw.iitd.ac.in/coursepage.php?course=txl241
+
+Name: txl242
+Link: https://bsw.iitd.ac.in/coursepage.php?course=txl242
+
+Name: txl321
+Link: https://bsw.iitd.ac.in/coursepage.php?course=txl321
+
