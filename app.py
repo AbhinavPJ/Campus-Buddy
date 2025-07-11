@@ -97,7 +97,7 @@ st.title("🧑‍🎓 Ask Your College Senior")
 st.caption("A simple chatbot that uses your documents to answer like a chill senior.")
 tokenizer, model = load_bert()
 passages, passage_embeddings, bm25, bm25_tokens = load_data()
-query = st.text_input("Ask me anything:", placeholder="e.g., What’s the deal with APL100 lab?")
+query = st.text_input("Ask me anything:", placeholder="e.g., Does CGPA really matter?")
 
 if query:
     with st.spinner("Thinking like your cool senior..."):
